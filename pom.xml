@@ -160,7 +160,7 @@ The following provides more details on the included cryptographic software:
     User is able to specify the platform by maven profiles.-->
     <target.name>all</target.name>
     <maven-antrun-plugin.version>1.8</maven-antrun-plugin.version>
-    <junit.version>4.13</junit.version>
+    <junit.version>4.13.1</junit.version>
     <slf4j-api.version>1.7.10</slf4j-api.version>
 
     <!-- Override default buildNumber timestamp format, needed for coveralls plugin -->
